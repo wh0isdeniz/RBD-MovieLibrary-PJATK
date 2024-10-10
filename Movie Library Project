@@ -523,5 +523,5 @@ WHERE IMDb_Score = (
     WHERE m2.Country_of_Origin = m.Country_of_Origin
 );
 
-.sql linguist-language=SQL linguist-detectable
+*.sql linguist-language=SQL linguist-detectable
 
